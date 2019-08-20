@@ -1,11 +1,13 @@
 ---
 PIP:  100
-Topic: Application for funds 
+Topic: Modify Network Protocol
 Author: vivi 
 Status: Processing/Rejected/Approved 
-Type: Finance
-Description: Apply for funds to develop mining tools
+Type: Text
+Category: Protocol
+Description: 
 Created: 2019-08-20
+
 ---
 
 # PIP-X：Example Title
@@ -27,3 +29,4 @@ and the section can be split into multiple sections and subsections.
 
 This is a section for references such as links to other documents (BIP or SLIP)
 or to reference implementations.
+
