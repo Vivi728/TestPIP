@@ -19,15 +19,15 @@ Created: 2019-08-20
 
 ## Recipient information
 
-Organization (if any)：
-Name:
-Website:
-Other URL:
+Organization (if any)  
+Name:  
+Website:  
+Other URL:  
 
 Fill out the following information for each individual team member who will be managing funds from this transfer:
 
-Name:
-PGP key fingerprint:
-Website:
-Other URL:
+Name:  
+PGP key fingerprint:  
+Website:  
+Other URL:    
 
