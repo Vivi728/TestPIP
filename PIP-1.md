@@ -1,5 +1,5 @@
 ---
-PIP: 1
+PIP: 10000
 Title: The PIP Governance Proposal Process
 Author: Vivi
 Status: Approved
